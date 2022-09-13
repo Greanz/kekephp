@@ -1,0 +1,9 @@
+{
+  "title": "MySite name",
+  "description" : "About this website, It's a simple yet powerful PHP framework for beginners",
+  "index" : "home",
+  "info": {
+    "phone": "",
+    "email": "myitskilsAtGmail.com"
+  }
+}
