@@ -4,7 +4,7 @@ define("date_ymd", date('Y-m-d'));
 define("datetime_dmy", date('d/m/Y : h:i:s'));
 define("datetime_ymd", date('Y-m-d h:i:s'));
 
-const BASE_URL = 'https://localhost/site2/';
+const BASE_URL = 'http://localhost/kkphprouter/';
 
 function dump($array,$isObject=false){
     echo "<pre/>";

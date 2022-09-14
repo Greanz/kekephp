@@ -1,0 +1,27 @@
+/*
+    The default css style
+    Feel free to remove it, Its my poor css ever
+ */
+*{
+    padding:0;
+    margin:0;
+}
+
+body{
+    width:50%;
+    margin-left:25%;
+    margin-top:15%;
+    height:50%;
+    display:block;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    padding:30px;
+    margin-bottom:30px;
+    border-radius:20px;
+}
+
+p.p1{
+    width:100%;
+    text-align:center;
+    font-size:30px;
+    margin-bottom: 10px;
+}

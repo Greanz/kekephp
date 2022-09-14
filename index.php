@@ -6,7 +6,6 @@
      * 13-09-2022 for the Love of Kendrick
      */
     const ROOT_PATH    = __DIR__;
-    $configuration = json_decode(file_get_contents(ROOT_PATH."/configuration.json"));
     include "library/main.php";
     include "routing.php";
 

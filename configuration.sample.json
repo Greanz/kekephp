@@ -5,5 +5,13 @@
   "info": {
     "phone": "",
     "email": "myitskilsAtGmail.com"
+  },
+  "useMysql":false,
+  "mysql": {
+    "host"    : "",
+    "database": "",
+    "user"    : "",
+    "password": "",
+    "port"    : ""
   }
 }
